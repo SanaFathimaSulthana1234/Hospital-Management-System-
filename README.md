@@ -1,5 +1,7 @@
 # Hospital Management System
 
+"A menu-driven Hospital Management System developed in C for managing patient records and appointments."
+
 # Overview
 
 Hospital Management System is a console-based application developed in C to manage patient records and appointments efficiently. The project demonstrates the use of fundamental Data Structures and Programming concepts such as Arrays, Structures, Linked Lists, Dynamic Memory Allocation, and Searching.
