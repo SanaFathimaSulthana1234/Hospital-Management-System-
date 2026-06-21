@@ -24,7 +24,7 @@ Hospital Management System is a console-based application developed in C to mana
 * Linked Lists
 * Pointers
 * Dynamic Memory Allocation (`malloc`, `free`)
-* Searching Techniques
+* Linear Search
 
 # Project Structure
 
